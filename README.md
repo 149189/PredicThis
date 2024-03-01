@@ -42,7 +42,7 @@ Contributions to PredicThis are welcome! If you encounter any issues, have sugge
 
 ## License
 
-This project is licensed under the [ License](LICENSE).
+This project is licensed under the [ GNU GENERAL PUBLIC License](LICENSE).
 
 ## Acknowledgements
 
